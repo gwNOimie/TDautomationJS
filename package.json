@@ -51,6 +51,6 @@
   "scripts": {
     "start": "DEBUG=express:* node bin/wwww",
     "lint": "./node_modules/.bin/eslint .eslintrc.json ./ path",
-    "test": "./node_modules/.bin/mocha ./t/unit/**"
+    "test": "./node_modules/.bin/mocha ./t/unit --recursive"
   }
 }
