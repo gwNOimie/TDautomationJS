@@ -38,8 +38,8 @@
     "underscore": "^1.8.3",
     "validator": "^3.43.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
+    "start": "node bin/wwww"
   }
 }
